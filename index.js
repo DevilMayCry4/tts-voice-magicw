@@ -1112,7 +1112,7 @@ const HTML_PAGE = `
                                 <option value="cheerful">😊 愉快欢乐</option>
                                 <option value="gentle">🌸 温和柔美</option>
                                 <option value="lyrical">🎼 抒情诗意</option>
-                                <option value="serious">🎯 严肃正式</option>
+                                <option value="serious">🎯 严肃正式!!</option>
                             </select>
                         </div>
                     </div>
